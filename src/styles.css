@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 
-body {
+body { 
+	background-color: black;
   margin: 0;
   font: menu;
 }
@@ -85,7 +86,7 @@ a:active {
 
 .note {
   padding: 1em;
-  border-bottom: 1px solid #CCC;
+  border-bottom: 1px solid #FFF;
   overflow-y: hidden;
   display: block;
 }
